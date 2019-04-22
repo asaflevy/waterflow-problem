@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/waterflow-problem/static/js/runtime~main.9ab05a37.js"
   },
   {
-    "revision": "a99b169ec3e614e7e130",
+    "revision": "0d0c4e0feedd395f52b5",
     "url": "/waterflow-problem/static/js/main.2117e91c.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/waterflow-problem/static/js/2.4c51984a.chunk.js"
   },
   {
-    "revision": "a99b169ec3e614e7e130",
-    "url": "/waterflow-problem/static/css/main.518992e5.chunk.css"
+    "revision": "0d0c4e0feedd395f52b5",
+    "url": "/waterflow-problem/static/css/main.edc1425a.chunk.css"
   },
   {
-    "revision": "9829799aa50c291687b35d208b0938a7",
+    "revision": "c32645d1dfa1f29c1e2b532b2f7db654",
     "url": "/waterflow-problem/index.html"
   }
 ];
