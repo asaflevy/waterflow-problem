@@ -9,9 +9,10 @@ nav.navbar {
     background-color: #42A5F5;
 }
 
-.hidden{
-    display: none;
+.hidden {
+    visibility: hidden;
 }
+
 .cloud_container {
     transition: opacity 1.15s ease-in-out;
     position: relative;
@@ -110,15 +111,16 @@ input.bigitem {
     border-radius: 3px;
 }
 
-
 .aboutPage .page-header {
     padding-bottom: 9px;
     margin: 40px 0 20px;
     border-bottom: 1px solid #eee;
 }
-.bigitem.form-control.error{
-    border:1px solid #ff033e;
+
+.bigitem.form-control.error {
+    border: 1px solid #ff033e;
 }
+
 .hint {
     display: flex;
     justify-content: center;
