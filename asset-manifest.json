@@ -1,13 +1,13 @@
 {
-  "main.css": "/waterflow-problem/static/css/main.463e31ff.chunk.css",
-  "main.js": "/waterflow-problem/static/js/main.ca63662a.chunk.js",
-  "main.js.map": "/waterflow-problem/static/js/main.ca63662a.chunk.js.map",
+  "main.css": "/waterflow-problem/static/css/main.518992e5.chunk.css",
+  "main.js": "/waterflow-problem/static/js/main.2117e91c.chunk.js",
+  "main.js.map": "/waterflow-problem/static/js/main.2117e91c.chunk.js.map",
   "runtime~main.js": "/waterflow-problem/static/js/runtime~main.9ab05a37.js",
   "runtime~main.js.map": "/waterflow-problem/static/js/runtime~main.9ab05a37.js.map",
   "static/js/2.4c51984a.chunk.js": "/waterflow-problem/static/js/2.4c51984a.chunk.js",
   "static/js/2.4c51984a.chunk.js.map": "/waterflow-problem/static/js/2.4c51984a.chunk.js.map",
   "index.html": "/waterflow-problem/index.html",
-  "precache-manifest.168b321de122f67b6ad26f31fe44d4d7.js": "/waterflow-problem/precache-manifest.168b321de122f67b6ad26f31fe44d4d7.js",
+  "precache-manifest.5bb6201a4bb8c5fac71b374d146860c6.js": "/waterflow-problem/precache-manifest.5bb6201a4bb8c5fac71b374d146860c6.js",
   "service-worker.js": "/waterflow-problem/service-worker.js",
-  "static/css/main.463e31ff.chunk.css.map": "/waterflow-problem/static/css/main.463e31ff.chunk.css.map"
+  "static/css/main.518992e5.chunk.css.map": "/waterflow-problem/static/css/main.518992e5.chunk.css.map"
 }
