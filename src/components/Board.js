@@ -10,6 +10,7 @@ import Button from './Button'
 import * as _ from 'lodash'
 import TowDimConverting from '../common/TowDimConverting'
 import * as CURENT from '../common/Enum_State'
+import Hint from "./Hint";
 
 class Board extends React.Component {
     constructor() {
@@ -78,10 +79,11 @@ class Board extends React.Component {
     render() {
         return (
             <div id="main_container">
+            <Hint currentState={this.state.currentState}/>
                 <div className="flexcontainer">
                     <Cloud drops_counter={this.state.counter_result} currentState={this.state.currentState}/>
                     <input disabled={this.state.currentState} defaultValue={this.state.input} ref='input'
-                           className="bigitem form-control error" type="text"
+                           className={this.state.isValid ? 'bigitem form-control' : 'bigitem form-control error'}  type="text"
                            onChange={this.handleInputChange}/>
                     <Button
                         isValidInput={this.state.isValid}

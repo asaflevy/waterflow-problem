@@ -9,6 +9,9 @@ nav.navbar {
     background-color: #42A5F5;
 }
 
+.hidden{
+    display: none;
+}
 .cloud_container {
     transition: opacity 1.15s ease-in-out;
     position: relative;
@@ -112,4 +115,14 @@ input.bigitem {
     padding-bottom: 9px;
     margin: 40px 0 20px;
     border-bottom: 1px solid #eee;
+}
+.bigitem.form-control.error{
+    border:1px solid #ff033e;
+}
+.hint {
+    display: flex;
+    justify-content: center;
+    margin-top: 29px;
+    font-size: 17px;
+    font-weight: 500;
 }
