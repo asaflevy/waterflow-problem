@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.5c2db74b.chunk.css",
-  "main.js": "/static/js/main.0dbd0393.chunk.js",
-  "main.js.map": "/static/js/main.0dbd0393.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.75163b24.chunk.js": "/static/js/2.75163b24.chunk.js",
-  "static/js/2.75163b24.chunk.js.map": "/static/js/2.75163b24.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.f470c9ca57dd5c5c30c40939821dcb0e.js": "/precache-manifest.f470c9ca57dd5c5c30c40939821dcb0e.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.5c2db74b.chunk.css.map": "/static/css/main.5c2db74b.chunk.css.map"
+  "main.css": "/waterflow-problem/static/css/main.463e31ff.chunk.css",
+  "main.js": "/waterflow-problem/static/js/main.23650a8d.chunk.js",
+  "main.js.map": "/waterflow-problem/static/js/main.23650a8d.chunk.js.map",
+  "runtime~main.js": "/waterflow-problem/static/js/runtime~main.9ab05a37.js",
+  "runtime~main.js.map": "/waterflow-problem/static/js/runtime~main.9ab05a37.js.map",
+  "static/js/2.75163b24.chunk.js": "/waterflow-problem/static/js/2.75163b24.chunk.js",
+  "static/js/2.75163b24.chunk.js.map": "/waterflow-problem/static/js/2.75163b24.chunk.js.map",
+  "index.html": "/waterflow-problem/index.html",
+  "precache-manifest.33efd0ca9f30039fc075eff3283b8a17.js": "/waterflow-problem/precache-manifest.33efd0ca9f30039fc075eff3283b8a17.js",
+  "service-worker.js": "/waterflow-problem/service-worker.js",
+  "static/css/main.463e31ff.chunk.css.map": "/waterflow-problem/static/css/main.463e31ff.chunk.css.map"
 }
